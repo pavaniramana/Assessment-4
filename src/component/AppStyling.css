@@ -1,0 +1,48 @@
+.home{
+    color: red;
+    background-color: aquamarine;
+    font-size: xx-large;
+    width: 500px;
+    position: absolute;
+    left: 500px;
+    text-align: center;
+}
+.contact{
+    color: red;
+    background-color: aquamarine;
+    font-size: xx-large;
+    width: 500px;
+    position: absolute;
+    left: 500px;
+    text-align: center;
+}
+.header{
+    color: white;
+    background-color: grey;
+    font-size: xx-large;
+}
+.home-header{
+    text-decoration-line: none;
+    position: relative;
+    left: 100px;
+}
+.home-student{
+    text-decoration-line: none;
+    position: relative;
+    left: 570px;
+}
+.home-contact{
+    text-decoration-line: none;
+    position: absolute;
+    left: 1200px;
+}
+.btn{
+    position: relative;
+    top: -59px;
+    left: 1142px;
+    border: 3px solid royalblue;
+    border-radius: 10px;
+    width: 250px;
+    height: 45px;
+    font-size: large;
+}
